@@ -20,6 +20,20 @@ Despite a total revenue of $1.03M, there are disparities in product performance,
 
 * What strategies can drive overall profitability and customer engagement?
 
+  ## Data Source and Structure
+  The data was gotten from Blossom Academy
+  
+  The has 213 rows and 6 columns with attributes including Order ID,	Product,	Category	,Amount	,Date	 and Country.
+
+  ## Tools
+  I utilized Microsoft Excel, Power Query and Pivot Charts 
+
+
+
+## Dashboard
+![EcoGrocerHub](https://github.com/user-attachments/assets/5108ceb2-0e14-4257-a02b-ae44b9498799)
+
+
 ## Performance Summary
 
 ### Total Sales Overview
@@ -38,7 +52,7 @@ Top Performers: Bananas ($340K), Apples ($191K), Cabbage ($137K)
 
 Low Performers: Mangoes ($57K), Beans ($57K)
 
-Revenue by Country
+### Revenue by Country
 
 Highest Revenue: United States ($267K), United Kingdom ($173K), Germany ($155K)
 
